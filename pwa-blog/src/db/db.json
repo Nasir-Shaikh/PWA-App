@@ -1,0 +1,39 @@
+{
+    "restaurant": [
+      {
+        "id": 2,
+        "name": "IND national",
+        "address": "Gurgaon",
+        "rating": "4.4",
+        "email": "bbq@test.com"
+      },
+      {
+        "id": 1,
+        "name": "IND national",
+        "address": "Gurgaon",
+        "rating": "4.4",
+        "email": "bbq@test.com"
+      },
+      {
+        "name": "asd",
+        "email": "asdf",
+        "address": "sdfg",
+        "rating": "52",
+        "id": 4
+      },
+      {
+        "name": "erg",
+        "email": "qwdf",
+        "address": "sdfg",
+        "rating": "23",
+        "id": 5
+      },
+      {
+        "name": "ergsdfg",
+        "email": "qwdfsd",
+        "address": "sdfgsdf",
+        "rating": "232",
+        "id": 6
+      }
+    ]
+  }
